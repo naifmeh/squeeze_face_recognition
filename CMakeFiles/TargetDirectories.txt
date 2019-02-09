@@ -1,3 +1,0 @@
-/home/naif/Documents/squeezeCNN/CMakeFiles/rebuild_cache.dir
-/home/naif/Documents/squeezeCNN/CMakeFiles/edit_cache.dir
-/home/naif/Documents/squeezeCNN/CMakeFiles/squeezecnn.dir
