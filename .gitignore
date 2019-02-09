@@ -1,0 +1,6 @@
+.clang-format
+gitlabpti
+gitlabpti.pub
+.idea/
+.vscode/
+openface/
