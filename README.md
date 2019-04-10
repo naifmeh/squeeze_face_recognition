@@ -80,3 +80,5 @@ be available.
 * Openface and dependencies (openface directory should be put in the root of squeezecnn)
 * restclient - curl
 * rapidjson (headers only)
+
+MADE BY NAIF MEHANNA
